@@ -1,0 +1,8 @@
+Movie Ticket
+-----------------------------
+Movie Name: Aarkkariyam
+Seats Selected: B1
+Food: None
+Total Price: $98.7
+-----------------------------
+Thank you for your purchase!

@@ -1,0 +1,24 @@
+Movie Ticket
+-----------------------------
+Movie Name: Malik
+Seats Selected: A2, B3
+Food: None
+Total Price: $202.33499999999998
+-----------------------------
+Thank you for your purchase!
+Movie Ticket
+-----------------------------
+Movie Name: Malik
+Seats Selected: A1
+Food: Popcorn
+Total Price: $118.7
+-----------------------------
+Thank you for your purchase!
+Movie Ticket
+-----------------------------
+Movie Name: Malik
+Seats Selected: A2
+Food: Popcorn
+Total Price: $118.7
+-----------------------------
+Thank you for your purchase!

@@ -1,0 +1,8 @@
+Movie Ticket
+-----------------------------
+Movie Name: Madhuram
+Seats Selected: A1, B2
+Food: None
+Total Price: $202.33499999999998
+-----------------------------
+Thank you for your purchase!
